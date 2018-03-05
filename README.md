@@ -1,9 +1,4 @@
-# arcade_22
-
-----------
-
 Button layout:
-
 
 #      |                                     [ 9 ]   [ 12 ]
 #      |
@@ -23,21 +18,21 @@ Button 10 - Side button / Select / Coin / Hothey button
 
 ----------
 
-```Main Menu Operation:
+Main Menu Operation:
 
 9  = Main menu, press again to dismiss screen
 10 = Screen saver, press any other button to dismiss
 5  = Enter / Select (A button)
-4  = Back / Cancel (B button)```
+4  = Back / Cancel (B button)
 
-`In System:
+In System:
 
 9  = Main menu, press again to dismiss screen
 10 = Rom options, press again to dismiss screen
 5  = Launch game (A button)
 4  = Back (B button)
 3  = Game page up (L button)
-6  = Game page down (R button)`
+6  = Game page down (R button)
 
 ----------
 
