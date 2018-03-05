@@ -23,27 +23,27 @@ Button 10 - Side button / Select / Coin / Hothey button
 
 ----------
 
-Main Menu Operation:
+`Main Menu Operation:
 
 9  = Main menu, press again to dismiss screen
 10 = Screen saver, press any other button to dismiss
 5  = Enter / Select (A button)
-4  = Back / Cancel (B button)
+4  = Back / Cancel (B button)`
 
-In System:
+`In System:
 
 9  = Main menu, press again to dismiss screen
 10 = Rom options, press again to dismiss screen
 5  = Launch game (A button)
 4  = Back (B button)
 3  = Game page up (L button)
-6  = Game page down (R button)
+6  = Game page down (R button)`
 
 ----------
 
 Emulators:
 
-MAME:
+`MAME:
 
 10 = Coin
 9  = Start
@@ -51,7 +51,7 @@ MAME:
 4  = 2nd action
 5  = 3rd action
 
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 Notes:
 Button 10 is the hotkey.  Holding this button during operation may cause effects to trigger, like the menu, pausing, or other things
@@ -60,7 +60,7 @@ Depending on the MAME emulator being run, pressing the `?` key on the keyboard m
 Please do not tinker around in there unless you know what you are doing
 
 
-GameBoy / GameBoy Color / GameBoy Advance
+`GameBoy / GameBoy Color / GameBoy Advance
 
 10 = Select
 9  = Start
@@ -69,28 +69,28 @@ GameBoy / GameBoy Color / GameBoy Advance
 3  = L
 6  = R
 
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 
-Sega Master System
+`Sega Master System
 
 5  = Start, also used for A in games
 4  = B
 
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 
-Sega Mega Drive
+`Sega Mega Drive
 
 9  = Start
 1  = A
 4  = B
 5  = C
 
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 
-Neo Geo
+`Neo Geo
 
 10 = Coin
 9  = Start
@@ -99,30 +99,30 @@ Neo Geo
 5  = 3rd action
 6  = 4th action
 
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 
-Nintendo Entertainment System
-
-10 = Select
-9  = Start
-5  = A
-4  = B
-
-10 + 9 = Exit game
-
-
-Turbo Graphics 16
+`Nintendo Entertainment System
 
 10 = Select
 9  = Start
 5  = A
 4  = B
 
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 
-Super Nintendo Entertainment System
+`Turbo Graphics 16
+
+10 = Select
+9  = Start
+5  = A
+4  = B
+
+10 + 9 = Exit game`
+
+
+`Super Nintendo Entertainment System
 
 10 = Select
 9  = Start
@@ -133,24 +133,24 @@ Super Nintendo Entertainment System
 3  = L
 6  = R
   
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 
-Virtual Boy
+`Virtual Boy
 
 9  = Start
 5  = A
 4  = B
 
-10 + 9 = Exit game
+10 + 9 = Exit game`
 
 
-Daphne (Experimental)
+`Daphne (Experimental)
 
 10 = Coin
 9  = Start
 5  = Action
-12 = Exit
+12 = Exit`
 
 Notes:
 Player two start button is the exit button for Daphne
