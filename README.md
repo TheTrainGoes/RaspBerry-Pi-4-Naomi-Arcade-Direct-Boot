@@ -9,7 +9,7 @@ Button layout
             |  [ 7 ]   [ 8 ]
     [ 10 ]  |  
          
-Notes: 
+```Notes: 
 Button 9 - Start / Player 1
 Button 12 - Start / Payer 2
 Button 11 - Side button / Not used / Mouse button Left
@@ -37,7 +37,7 @@ In System:
 
 Emulators:
 
-```MAME:
+MAME:
 
 10 = Coin
 9  = Start
@@ -45,7 +45,7 @@ Emulators:
 4  = 2nd action
 5  = 3rd action
 
-10 + 9 = Exit game```
+10 + 9 = Exit game
 
 Notes:
 Button 10 is the hotkey.  Holding this button during operation may cause effects to trigger, like the menu, pausing, or other things
