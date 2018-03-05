@@ -5,14 +5,14 @@
 Button layout:
 
 
-`      |                                     [ 9 ]   [ 12 ]
-      |
-      |           [ 1 ]   [ 2 ]   [ 3 ]                        
-      |           
-      |           [ 4 ]   [ 5 ]   [ 6 ]
-[ 11 ]|      
-      |      [ 7 ]    [ 8 ]
-[ 10 ]|`
+#      |                                     [ 9 ]   [ 12 ]
+#      |
+#      |           [ 1 ]   [ 2 ]   [ 3 ]                        
+#      |           
+#      |           [ 4 ]   [ 5 ]   [ 6 ]
+#[ 11 ]|      
+#      |      [ 7 ]    [ 8 ]
+#[ 10 ]|
 
 
 Notes: 
@@ -23,12 +23,12 @@ Button 10 - Side button / Select / Coin / Hothey button
 
 ----------
 
-`Main Menu Operation:
+```Main Menu Operation:
 
 9  = Main menu, press again to dismiss screen
 10 = Screen saver, press any other button to dismiss
 5  = Enter / Select (A button)
-4  = Back / Cancel (B button)`
+4  = Back / Cancel (B button)```
 
 `In System:
 
