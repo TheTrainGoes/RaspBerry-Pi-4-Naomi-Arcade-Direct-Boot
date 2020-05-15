@@ -14,7 +14,7 @@
 # Marvel VS. Capcom 2: New Age of Heroes
 #/opt/retropie/emulators/retroarch/bin/retroarch -L /opt/retropie/libretrocores/lr-flycast/flycast_libretro.so </dev/null --config /opt/retropie/configs/dreamcast/retroarch.cfg "/home/pi/RetroPie/roms/dreamcast/mvsc2.zip" --appendconfig /dev/shm/retroarch.cfg
 
-# Street Fighter Z 
+# Street Fighter 3 Zero 
 /opt/retropie/emulators/retroarch/bin/retroarch -L /opt/retropie/libretrocores/lr-flycast/flycast_libretro.so </dev/null --config /opt/retropie/configs/dreamcast/retroarch.cfg "/home/pi/RetroPie/roms/dreamcast/sfz3ugd.zip" --appendconfig /dev/shm/retroarch.cfg
 
 exit 0
