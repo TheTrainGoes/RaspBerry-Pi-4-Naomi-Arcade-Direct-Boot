@@ -1,0 +1,20 @@
+#! /bin/sh
+# /etc/init.d/naomi
+
+### BEGIN INIT INFO
+# Provides:          Direct Boot Naomi
+# Required-Start:    ###
+# Required-Stop:     ###
+# Default-Start:     ###
+# Default-Stop:      ###
+# Short-Description: Simple script to start a ROM at boot
+# Description:       A simple script to start a ROM at boot from RetroPie
+### END INIT INFO
+
+# Marvel VS. Capcom 2: New Age of Heroes
+#/opt/retropie/emulators/retroarch/bin/retroarch -L /opt/retropie/libretrocores/lr-flycast/flycast_libretro.so </dev/null --config /opt/retropie/configs/dreamcast/retroarch.cfg "/home/pi/RetroPie/roms/dreamcast/mvsc2.zip" --appendconfig /dev/shm/retroarch.cfg
+
+# Street Fighter Z 
+/opt/retropie/emulators/retroarch/bin/retroarch -L /opt/retropie/libretrocores/lr-flycast/flycast_libretro.so </dev/null --config /opt/retropie/configs/dreamcast/retroarch.cfg "/home/pi/RetroPie/roms/dreamcast/sfz3ugd.zip" --appendconfig /dev/shm/retroarch.cfg
+
+exit 0
