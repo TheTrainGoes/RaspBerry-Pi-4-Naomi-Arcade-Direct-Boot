@@ -6,8 +6,11 @@ Small collection of info that looks at Naomi Arcade ROM compatibility with the R
 
 Files:
 Naomi.txt - List of ROMs that I tested on the RaspBerry Pi 4 4g, contains a working check, the ROM name, the actual name of the game and any notes
+
 cmdline.txt - A customized cmdline.txt that does a direct boot with nothing else shown on the screen during launch
+
 config.txt - The config.txt that I was using for this (generic 1080p display over HDMI)
+
 naomiboot - An example of a direct boot for a setup as a single game unit
 
 ---
